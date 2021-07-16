@@ -1,0 +1,41 @@
+@import "./variables.scss";
+@import "./colors.scss";
+@import "./layouts.scss";
+@import "./spacing.scss";
+@import "./flex.scss";
+@import "./font.scss";
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  line-height: 1.5;
+}
+
+p {
+  text-align: justify;
+}
+
+html {
+  font-size: 20px;
+  background: linear-gradient(-45deg, $blue-700 0%, $blue-500 100%);
+}
+
+a {
+  color: inherit;
+}
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+}
+
+.shadow {
+  -webkit-box-shadow: 0px 8px 12px 0px rgb(0 0 0 / 16%);
+  -moz-box-shadow: 0px 8px 12px 0px rgba(0, 0, 0, 0.16);
+  box-shadow: 0px 8px 12px 0px rgb(0 0 0 / 16%);
+}

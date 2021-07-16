@@ -1,0 +1,248 @@
+@import "./variables.scss";
+
+.p-1 {
+  padding: $element-spacing;
+}
+
+.pt-1 {
+  padding-top: $element-spacing;
+}
+
+.pr-1 {
+  padding-right: $element-spacing;
+}
+
+.pb-1 {
+  padding-bottom: $element-spacing;
+}
+
+.pl-1 {
+  padding-left: $element-spacing;
+}
+
+.py-1 {
+  padding-top: $element-spacing;
+  padding-bottom: $element-spacing;
+}
+
+.px-1 {
+  padding-right: $element-spacing;
+  padding-left: $element-spacing;
+}
+
+/* P2 */
+.p-2 {
+  padding: $sub-heading-spacing;
+}
+
+.pt-2 {
+  padding-top: $sub-heading-spacing;
+}
+
+.pr-2 {
+  padding-right: $sub-heading-spacing;
+}
+
+.pb-2 {
+  padding-bottom: $sub-heading-spacing;
+}
+
+.pl-2 {
+  padding-left: $sub-heading-spacing;
+}
+
+.py-2 {
+  padding-top: $sub-heading-spacing;
+  padding-bottom: $sub-heading-spacing;
+}
+
+.px-2 {
+  padding-right: $sub-heading-spacing;
+  padding-left: $sub-heading-spacing;
+}
+
+/* P3 */
+.p-3 {
+  padding: $heading-spacing;
+}
+
+.pt-3 {
+  padding-top: $heading-spacing;
+}
+
+.pr-3 {
+  padding-right: $heading-spacing;
+}
+
+.pb-3 {
+  padding-bottom: $heading-spacing;
+}
+
+.pl-3 {
+  padding-left: $heading-spacing;
+}
+
+.py-3 {
+  padding-top: $heading-spacing;
+  padding-bottom: $heading-spacing;
+}
+
+.px-3 {
+  padding-right: $heading-spacing;
+  padding-left: $heading-spacing;
+}
+
+/* P5 */
+.p-5 {
+  padding: $section-spacing;
+}
+
+.pt-5 {
+  padding-top: $section-spacing;
+}
+
+.pr-5 {
+  padding-right: $section-spacing;
+}
+
+.pb-5 {
+  padding-bottom: $section-spacing;
+}
+
+.pl-5 {
+  padding-left: $section-spacing;
+}
+
+.py-5 {
+  padding-top: $section-spacing;
+  padding-bottom: $section-spacing;
+}
+
+.px-5 {
+  padding-right: $section-spacing;
+  padding-left: $section-spacing;
+}
+
+/* M1 */
+.m-1 {
+  margin: $element-spacing;
+}
+
+.mt-1 {
+  margin-top: $element-spacing;
+}
+
+.mr-1 {
+  margin-right: $element-spacing;
+}
+
+.mb-1 {
+  margin-bottom: $element-spacing;
+}
+
+.ml-1 {
+  margin-left: $element-spacing;
+}
+
+.my-1 {
+  margin-top: $element-spacing;
+  margin-bottom: $element-spacing;
+}
+
+.mx-1 {
+  margin-right: $element-spacing;
+  margin-left: $element-spacing;
+}
+
+/* M2 */
+.m-2 {
+  margin: $sub-heading-spacing;
+}
+
+.mt-2 {
+  margin-top: $sub-heading-spacing;
+}
+
+.mr-2 {
+  margin-right: $sub-heading-spacing;
+}
+
+.mb-2 {
+  margin-bottom: $sub-heading-spacing;
+}
+
+.ml-2 {
+  margin-left: $sub-heading-spacing;
+}
+
+.my-2 {
+  margin-top: $sub-heading-spacing;
+  margin-bottom: $sub-heading-spacing;
+}
+
+.mx-2 {
+  margin-right: $sub-heading-spacing;
+  margin-left: $sub-heading-spacing;
+}
+
+/* M3 */
+.m-3 {
+  margin: $heading-spacing;
+}
+
+.mt-3 {
+  margin-top: $heading-spacing;
+}
+
+.mr-3 {
+  margin-right: $heading-spacing;
+}
+
+.mb-3 {
+  margin-bottom: $heading-spacing;
+}
+
+.ml-3 {
+  margin-left: $heading-spacing;
+}
+
+.my-3 {
+  margin-top: $heading-spacing;
+  margin-bottom: $heading-spacing;
+}
+
+.mx-3 {
+  margin-right: $heading-spacing;
+  margin-left: $heading-spacing;
+}
+
+/* M5 */
+.m-5 {
+  margin: $section-spacing;
+}
+
+.mt-5 {
+  margin-top: $section-spacing;
+}
+
+.mr-5 {
+  margin-right: $section-spacing;
+}
+
+.mb-5 {
+  margin-bottom: $section-spacing;
+}
+
+.ml-5 {
+  margin-left: $section-spacing;
+}
+
+.my-5 {
+  margin-top: $section-spacing;
+  margin-bottom: $section-spacing;
+}
+
+.mx-5 {
+  margin-right: $section-spacing;
+  margin-left: $section-spacing;
+}

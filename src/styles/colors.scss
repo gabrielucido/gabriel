@@ -1,0 +1,116 @@
+@import "./variables.scss";
+
+.bg-transparent {
+  background-color: transparent;
+}
+
+.bg-current {
+  background-color: currentColor;
+}
+
+.bg-black {
+  background-color: #000000
+}
+
+.bg-white {
+  background-color: #ffffff
+}
+
+.color-white {
+  color: #ffffff // For headings with dark backgrounds
+}
+
+
+/* Gray */
+.bg-gray-200 {
+  background-color: $gray-200;
+}
+
+.bg-gray-400 {
+  background-color: $gray-400;
+}
+
+.bg-gray-500 {
+  background-color: $gray-500;
+}
+
+.bg-gray-700 {
+  background-color: $gray-700;
+}
+
+.bg-gray-900 {
+  background-color: $gray-900;
+}
+
+.color-gray-200 {
+  color: $gray-200; // For sub-headings with dark backgrounds
+}
+
+.color-gray-400 {
+  color: $gray-400; // For paragraphs with dark backgrounds
+}
+
+.color-gray-500 {
+  color: $gray-500; // For paragraphs with white backgrounds
+}
+
+.color-gray-700 {
+  color: $gray-700; // For sub-headings with white backgrounds
+}
+
+.color-gray-900 {
+  color: $gray-900; // For headings with white backgrounds
+}
+
+
+/* Blue */
+.bg-blue-200 {
+  background-color: $blue-200;
+}
+
+.bg-blue-400 {
+  background-color: $blue-400;
+}
+
+.bg-blue-500 {
+  background-color: $blue-500;
+}
+
+.bg-blue-700 {
+  background-color: $blue-700;
+}
+
+.bg-blue-900 {
+  background-color: $blue-900;
+}
+
+.bg-blue-gradient {
+  background: linear-gradient(-45deg, $blue-500 0%, $blue-900 100%);
+}
+
+.color-blue-200 {
+  color: $blue-200;
+}
+
+.color-blue-400 {
+  color: $blue-400;
+}
+
+.color-blue-500 {
+  color: $blue-500;
+}
+
+.color-blue-700 {
+  color: $blue-700;
+}
+
+.color-blue-900 {
+  color: $blue-900;
+}
+
+.color-blue-gradient {
+  background: -webkit-linear-gradient($blue-400, $blue-900);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
