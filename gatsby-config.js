@@ -26,10 +26,10 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "assets",
+        name: "images/",
         path: "./src/assets/",
       },
-      __key: "assets",
+      __key: "images",
     },
     {
       resolve: "gatsby-source-filesystem",

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import male_avatar from "../../assets/male_avatar.svg";
 
 const NavBar = () => {
-  const [headerClasses, setHeaderClasses] = useState("DEFAULT");
+  const [headerClasses, setHeaderClasses] = useState("");
   const handleScroll = (event) => {
     const header = document.querySelector('#navbar');
     if (window.scrollY > (header.clientHeight / 2)) {
