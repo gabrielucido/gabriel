@@ -39,7 +39,7 @@ const Footer = () => {
             </a>
           </div>
         </div>
-        <p className="mt-2 flex items-center">Desenvolvido com <img className="px-1" height="20" src={heart} alt="Amor. Icone de coração" /> por <a className="ml-1 color-white fw-bold" href="#main">Archangel Interative</a>.</p>
+        <p className="mt-2 flex items-center justify-center flex-wrap">Desenvolvido com <img className="px-1" height="20" src={heart} alt="Amor. Icone de coração" /> por <a className="ml-1 color-white fw-bold" href="#main">Archangel Interative</a>.</p>
       </div>
     </footer>
   );

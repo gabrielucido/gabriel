@@ -1,0 +1,18 @@
+@import "./variables.scss";
+
+::-webkit-scrollbar-thumb {
+  background: $gray-400;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $gray-500;
+}
+
+::-webkit-scrollbar-track {
+  background: $gray-200;
+}
+
+body::-webkit-scrollbar {
+  width: 14px;
+  height: 14px;
+}
