@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import male_avatar from "../../assets/male_avatar.svg";
+import avatar from "../../assets/avatar.jpg";
 
 const NavBar = () => {
   const [headerClasses, setHeaderClasses] = useState("");
@@ -25,7 +25,7 @@ const NavBar = () => {
     <header id="navbar" className={headerClasses}>
       <div className="container">
         <nav className="row py-2 flex flex-between items-center">
-          <img src={male_avatar} height="40" alt="Avatar masculino." />
+          <img src={avatar} height="40" alt="Gabriel Rodrigues." />
           <ul className="flex">
             <li>
               <a className="mr-2" href="#main">Inicio</a>
