@@ -33,7 +33,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="col-6 col-lg-6 col-xl-4 mb-1">
-            <a className="flex items-center" target="_blank" rel="noreferrer" href="https://github.com/h3gon101">
+            <a className="flex items-center" target="_blank" rel="noreferrer" href="https://github.com/gabrielucido">
               <img className="mr-1" height="32" src={github} alt="Icone do Github" />
               Gabriel Rodrigues
             </a>
