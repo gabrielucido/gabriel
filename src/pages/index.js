@@ -21,7 +21,7 @@ const IndexPage = () => {
               <h1 className="color-white col-12 col-xl-12">Olá Mundo!</h1>
               <p className="color-gray-200 col-12 col-xl-12">
                 Me chamo <strong className="fw-bold">Gabriel Rodrigues</strong>,
-                seja bem-vindo! Aqui vou te mostrar um poquinho da minha
+                seja bem-vindo! Aqui vou te mostrar um pouquinho da minha
                 historia como Desenvolvedor.{" "}
                 <a className="fw-bold" href="#contact">
                   Informações de Contato
